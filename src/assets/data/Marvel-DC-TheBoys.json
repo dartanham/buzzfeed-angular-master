@@ -1,0 +1,55 @@
+{
+  "title":"Que tipo de nerd você é?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Na sua opinião, em qual destas décadas a cultura pop foi mais legal?",
+      "options":[
+        {"id": 1, "name":"Década de 1980", "alias":"A"},
+        {"id": 2, "name":"Década de 1990", "alias":"B"},
+        {"id": 3, "name":"Década de 2000", "alias":"A"},
+        {"id": 4, "name":"Década de 2010", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Agora escolha algo que você ama colecionar:",
+      "options":[
+        {"id": 1, "name":"Quadrinhos e actions figure", "alias":"A"},
+        {"id": 2, "name":"console e jogos antigos", "alias":"A"},
+        {"id": 3, "name":"decepções ", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Escolha uma coisa que te irrita muito",
+      "options":[
+        {"id": 1, "name":"Gente que chama actions figures de bonequinho", "alias":"B"},
+        {"id": 2, "name":"gente que diz ser fã de alguma coisa, mas na verdade não sabe nada", "alias":"A"},
+        {"id": 3, "name":"gente que diz que fikmes de super heroi e coisa de criança", "alias":"A"},
+        {"id": 4, "name":"gente que me corrige quando estou falando", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual voce prefere ?",
+      "options":[
+        {"id": 1, "name":"StarWars", "alias":"A"},
+        {"id": 2, "name":"StarTrek", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual assunto voce fala ppor horas ?",
+      "options":[
+        {"id": 1, "name":"Cinema", "alias":"A"},
+        {"id": 2, "name":"VideoGame", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente é Ancião!",
+    "B": "Você muito provavelmente é Novato!",
+    "C": "Você muito provavelmente é Sei lá!"
+  }
+}
